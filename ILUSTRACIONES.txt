@@ -1,0 +1,17 @@
+ILUSTRACIONES Y MARCA
+
+Se conservan las ilustraciones originales de la app y su estética crema y marrón.
+Se añaden nueve esquemas SVG hechos para explicar los nuevos contenidos.
+Son dibujos conceptuales: no se deben medir ni usar como detalle constructivo.
+
+La marca pequeña utilizada es el archivo original de barras rojas, img/marca.png;
+no se ha redibujado. Aparece en la esquina inferior izquierda de las imágenes.
+Los SVG llevan incrustada esa marca, sustituyendo el logotipo alargado anterior.
+En las ilustraciones JPG se conserva el archivo original: la app recorta
+visualmente la franja inferior con el logotipo alargado y superpone la marca
+pequeña. Al abrir un JPG directamente se verá el archivo original sin ese ajuste.
+El encabezado conserva el logotipo completo original de la Fundación.
+
+Los textos alternativos describen el contenido de las imágenes. Las imágenes
+de ejercicios sirven como apoyo y la pregunta contiene los datos necesarios
+para responder sin depender exclusivamente de la visión del esquema.

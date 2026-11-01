@@ -1,0 +1,59 @@
+SOLADO Y ALICATADO · VERSIÓN REVISADA Y AMPLIADA
+
+CONTENIDO
+30 fichas de contenido, con materiales, herramientas, precauciones y puntos
+de repaso. Se conservan y revisan las 21 fichas originales y se añaden 9:
+  - Comprobar cajas, tono y calibre.
+  - Los tiempos del adhesivo.
+  - Comprobar la cobertura del adhesivo.
+  - Impermeabilizar zonas de agua.
+  - Juntas de colocación y de movimiento.
+  - Manipular piezas de gran formato.
+  - Calcular superficie y piezas.
+  - Remates, esquinas y pasos de tubos.
+  - Proteger y entregar el trabajo.
+
+Los tres casos de la versión anterior se conservan, con autocorrección real.
+Hay 33 ejercicios en total: uno por cada ficha de contenido y tres casos de
+repaso. Incluyen tres alternativas, comprobación, pista, explicación, repetición,
+enlace a la ficha, navegación y contador de superados.
+
+Se revisan la selección de piezas y adhesivos, los formatos rectificados, los
+tiempos, la limpieza, el doble encolado y las reparaciones supervisadas.
+La búsqueda admite varias palabras y funciona sin escribir las tildes.
+Los puntos repasados, las fichas repasadas y los ejercicios superados se
+guardan localmente en el navegador. Se pueden reiniciar los ejercicios desde
+su listado sin borrar el repaso de fichas. No hay cuentas ni envío de respuestas.
+El progreso no se comparte entre dispositivos; borrar datos del sitio lo elimina.
+Si el navegador impide el guardado, aparece un aviso y solo dura la sesión.
+
+PUBLICAR
+1. Descomprime el ZIP en tu ordenador.
+2. Publica TODO su contenido, con index.html en la raíz de la publicación:
+   index.html, data.js, app.js, ejercicios.js, la carpeta img y .nojekyll.
+3. No subas el ZIP sin descomprimir como único archivo del repositorio.
+
+Cloudflare Pages (subida directa): arrastra la carpeta descomprimida al crear
+o actualizar el proyecto y publica el nuevo despliegue.
+Netlify (subida manual): arrastra la carpeta descomprimida a la zona de subida
+manual del sitio.
+GitHub Pages: sube los archivos a la raíz del repositorio, confirma los cambios
+y selecciona Settings > Pages > Deploy from a branch > main > / (root) > Save.
+Si ya estaba configurado, basta con actualizar los archivos y esperar al despliegue.
+No requiere instalación, comandos de compilación, servidor de datos ni claves.
+Las rutas de imágenes y scripts son relativas, compatibles con subcarpetas.
+
+PARA COMPROBAR
+Abre la portada, busca una ficha, marca un punto y recarga. En ejercicios prueba
+una opción incorrecta, una pista y la correcta; vuelve al listado y verifica el
+contador. Si actualizas una versión publicada y ves la anterior, recarga sin caché.
+
+USO FORMATIVO
+Las imágenes son ilustraciones o esquemas conceptuales, sin escala. No son
+detalles de ejecución ni sustituyen formación, evaluación preventiva, proyecto,
+instrucciones de producto o manuales. La práctica se organiza con el docente.
+Los valores del ejercicio de superficie son supuestos matemáticos explícitos;
+no fijan una reserva, ancho de junta, pendiente ni consumo universal.
+
+Las referencias de apoyo están dentro de cada ficha. La elección del sistema
+y de sus productos se comprueba para el caso concreto.
